@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{66BDB47D-3F0A-4796-B7D3-7812A740E943}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/Entities/Product.cs">
+    <Files>
+      <File FileName="Controllers/ProductController.cs" Line="15" Column="46" />
+      <File FileName="appsettings.json" Line="3" Column="23" />
+      <File FileName="Data/DAL/AppDbContext.cs" Line="12" Column="53" />
+      <File FileName="Startup.cs" Line="32" Column="91" />
+      <File FileName="Data/Entities/Product.cs" Line="10" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApi-1" expanded="True">
+            <Node name="WebApi-1" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="DAL" expanded="True" />
+                <Node name="Entities" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApi-1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
